@@ -29,6 +29,11 @@ programming skills and knowledge of various data APIs. Learn more by visiting
 the [documentation](https://wiki.mozilla.org/Telemetry) or
 [tutorials](spark.md).
 
+#### [Databricks](https://dbc-caf9527b-e073.cloud.databricks.com/)
+
+Offers notebook interface with shared, always-on cluster.  
+Convenient for quick data investigations.
+
 #### [`telemetry.mozilla.org`](analysis_intro.md) (TMO)
 
 Our [`telemetry.mozilla.org`](https://telemetry.mozilla.org) (TMO) site is the
